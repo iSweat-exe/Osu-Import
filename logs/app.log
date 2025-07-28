@@ -1,0 +1,157 @@
+2025-07-28 19:17:21 [INFO] Launching application...
+2025-07-28 19:17:21 [INFO] Application started. Initializing main window.
+2025-07-28 19:17:21 [INFO] Custom font loaded: Aller
+2025-07-28 19:17:25 [INFO] ZIP file selected: C:/Users/iSweat/Downloads/S1656 - osu! Beatmap Pack #1656.zip
+2025-07-28 19:17:27 [DEBUG] Starting import process...
+2025-07-28 19:17:27 [DEBUG] ImportWorker initialized with path: C:/Users/iSweat/Downloads/S1656 - osu! Beatmap Pack #1656.zip
+2025-07-28 19:17:27 [INFO] ImportWorker thread started.
+2025-07-28 19:17:27 [INFO] Import thread started.
+2025-07-28 19:17:27 [DEBUG] Path is a ZIP file. Creating temporary directory...
+2025-07-28 19:17:27 [INFO] Status updated: Extracting 'C:/Users/iSweat/Downloads/S1656 - osu! Beatmap Pack #1656.zip' to temporary folder...
+2025-07-28 19:17:27 [INFO] ZIP file extracted to: C:\Users\iSweat\AppData\Local\Temp\tmp1ppsjxah
+2025-07-28 19:17:27 [INFO] Found 20 .osz file(s) to import.
+2025-07-28 19:17:27 [DEBUG] Processing batch 1 with 5 files
+2025-07-28 19:17:27 [INFO] Status updated: Found 20 .osz file(s). Starting import...
+2025-07-28 19:17:27 [DEBUG] Starting file: C:\Users\iSweat\AppData\Local\Temp\tmp1ppsjxah\1880915 Creepy Nuts - Yofukashi no Uta.osz
+2025-07-28 19:17:27 [INFO] Status updated: Launching batch 1 with 5 files...
+2025-07-28 19:17:27 [DEBUG] Starting file: C:\Users\iSweat\AppData\Local\Temp\tmp1ppsjxah\1968282 tokenainamae - Bokura no Tousakugokko.osz
+2025-07-28 19:17:27 [DEBUG] Starting file: C:\Users\iSweat\AppData\Local\Temp\tmp1ppsjxah\1991635 Yousei Teikoku - Senketsu no Chikai (TV Size).osz
+2025-07-28 19:17:27 [DEBUG] Starting file: C:\Users\iSweat\AppData\Local\Temp\tmp1ppsjxah\2159721 F Rabbeat feat. Mustard - How to make OTOGE MUSIC_.osz
+2025-07-28 19:17:27 [DEBUG] Starting file: C:\Users\iSweat\AppData\Local\Temp\tmp1ppsjxah\2194596 Red Hot Chili Peppers - Californication.osz
+2025-07-28 19:17:27 [DEBUG] Waiting for 5 import(s) to finish...
+2025-07-28 19:17:28 [DEBUG] Found 4 osu! import processes running.
+2025-07-28 19:17:29 [DEBUG] Found 0 osu! import processes running.
+2025-07-28 19:17:29 [DEBUG] All imports finished.
+2025-07-28 19:17:29 [DEBUG] Batch 1 completed.
+2025-07-28 19:17:29 [DEBUG] Processing batch 2 with 5 files
+2025-07-28 19:17:29 [INFO] File imported: 1991635 Yousei Teikoku - Senketsu no Chikai (TV Size).osz
+2025-07-28 19:17:29 [DEBUG] Starting file: C:\Users\iSweat\AppData\Local\Temp\tmp1ppsjxah\2263606 Sayuri - Songs Compilation.osz
+2025-07-28 19:17:29 [DEBUG] Progress updated: 5/20
+2025-07-28 19:17:29 [INFO] Status updated: Launching batch 2 with 5 files...
+2025-07-28 19:17:29 [DEBUG] Starting file: C:\Users\iSweat\AppData\Local\Temp\tmp1ppsjxah\2297038 RADWIMPS - Yume Tourou.osz
+2025-07-28 19:17:29 [DEBUG] Starting file: C:\Users\iSweat\AppData\Local\Temp\tmp1ppsjxah\2301256 Lady Gaga - The Edge Of Glory.osz
+2025-07-28 19:17:29 [DEBUG] Starting file: C:\Users\iSweat\AppData\Local\Temp\tmp1ppsjxah\2302431 Sasuke Haraguchi feat. Kasane Teto - HITO Mania.osz
+2025-07-28 19:17:29 [DEBUG] Starting file: C:\Users\iSweat\AppData\Local\Temp\tmp1ppsjxah\2303073 _LOVE - Koibito Ijou_ Suki Miman (TV Size).osz
+2025-07-28 19:17:29 [DEBUG] Waiting for 5 import(s) to finish...
+2025-07-28 19:17:30 [DEBUG] Found 5 osu! import processes running.
+2025-07-28 19:17:31 [DEBUG] Found 0 osu! import processes running.
+2025-07-28 19:17:31 [DEBUG] All imports finished.
+2025-07-28 19:17:31 [DEBUG] Batch 2 completed.
+2025-07-28 19:17:31 [DEBUG] Processing batch 3 with 5 files
+2025-07-28 19:17:31 [INFO] File imported: 2301256 Lady Gaga - The Edge Of Glory.osz
+2025-07-28 19:17:31 [DEBUG] Starting file: C:\Users\iSweat\AppData\Local\Temp\tmp1ppsjxah\2328493 JINDOU - Kaisei Joushou Hallelujah (TV Size).osz
+2025-07-28 19:17:31 [DEBUG] Progress updated: 10/20
+2025-07-28 19:17:31 [INFO] Status updated: Launching batch 3 with 5 files...
+2025-07-28 19:17:31 [DEBUG] Starting file: C:\Users\iSweat\AppData\Local\Temp\tmp1ppsjxah\2337469 HIMEHINA - Kiss Kitsune.osz
+2025-07-28 19:17:31 [DEBUG] Starting file: C:\Users\iSweat\AppData\Local\Temp\tmp1ppsjxah\2340453 ilyeucli - U make my heart beat fast_ (feat. Hatsune Miku).osz
+2025-07-28 19:17:31 [DEBUG] Starting file: C:\Users\iSweat\AppData\Local\Temp\tmp1ppsjxah\2340741 Official HIGE DANdism - Same Blue.osz
+2025-07-28 19:17:31 [DEBUG] Starting file: C:\Users\iSweat\AppData\Local\Temp\tmp1ppsjxah\2341425 Hiro Shinosawa (CV_ Reina Kawamura) - Mekurume.osz
+2025-07-28 19:17:31 [DEBUG] Waiting for 5 import(s) to finish...
+2025-07-28 19:17:32 [DEBUG] Found 5 osu! import processes running.
+2025-07-28 19:17:32 [DEBUG] Found 1 osu! import processes running.
+2025-07-28 19:17:33 [DEBUG] Found 0 osu! import processes running.
+2025-07-28 19:17:33 [DEBUG] All imports finished.
+2025-07-28 19:17:33 [DEBUG] Batch 3 completed.
+2025-07-28 19:17:33 [DEBUG] Processing batch 4 with 5 files
+2025-07-28 19:17:33 [DEBUG] Starting file: C:\Users\iSweat\AppData\Local\Temp\tmp1ppsjxah\2365672 Good Kid - Tell Me You Know (Cut Ver.).osz
+2025-07-28 19:17:33 [INFO] File imported: 2340453 ilyeucli - U make my heart beat fast_ (feat. Hatsune Miku).osz
+2025-07-28 19:17:33 [DEBUG] Progress updated: 15/20
+2025-07-28 19:17:33 [INFO] Status updated: Launching batch 4 with 5 files...
+2025-07-28 19:17:33 [DEBUG] Starting file: C:\Users\iSweat\AppData\Local\Temp\tmp1ppsjxah\2375981 SHIN-SHINJUKU GR SCHOOL - AGARE.osz
+2025-07-28 19:17:33 [DEBUG] Starting file: C:\Users\iSweat\AppData\Local\Temp\tmp1ppsjxah\2383408 halca - Weekend Roll (TV Size).osz
+2025-07-28 19:17:33 [DEBUG] Starting file: C:\Users\iSweat\AppData\Local\Temp\tmp1ppsjxah\2389740 Aiobahn _81 feat. Nanahira _ Pmarusama. - Ten Ten Tengoku Jigokugoku.osz
+2025-07-28 19:17:33 [DEBUG] Starting file: C:\Users\iSweat\AppData\Local\Temp\tmp1ppsjxah\487497 Mizutani Runa (NanosizeMir) - Philosophyz _TV animation ver._.osz
+2025-07-28 19:17:33 [DEBUG] Waiting for 5 import(s) to finish...
+2025-07-28 19:17:34 [DEBUG] Found 5 osu! import processes running.
+2025-07-28 19:17:35 [DEBUG] Found 0 osu! import processes running.
+2025-07-28 19:17:35 [DEBUG] All imports finished.
+2025-07-28 19:17:35 [DEBUG] Batch 4 completed.
+2025-07-28 19:17:35 [INFO] \u2705 Finished: 20/20 beatmaps successfully imported.
+2025-07-28 19:17:35 [INFO] File imported: 2383408 halca - Weekend Roll (TV Size).osz
+2025-07-28 19:17:35 [DEBUG] Attempting to delete temp folder: C:\Users\iSweat\AppData\Local\Temp\tmp1ppsjxah
+2025-07-28 19:17:35 [DEBUG] Progress updated: 20/20
+2025-07-28 19:17:35 [INFO] Status updated: \u2705 Finished: 20/20 beatmaps successfully imported.
+2025-07-28 19:17:35 [INFO] Import process completed.
+2025-07-28 19:17:35 [WARNING] Temp folder locked. Retrying...
+2025-07-28 19:17:36 [INFO] Temporary folder deleted: C:\Users\iSweat\AppData\Local\Temp\tmp1ppsjxah
+2025-07-28 19:18:38 [INFO] Launching application...
+2025-07-28 19:18:38 [INFO] Application started. Initializing main window.
+2025-07-28 19:18:38 [INFO] Custom font loaded: Aller
+2025-07-28 19:18:51 [INFO] ZIP file selected: C:/Users/iSweat/Downloads/S1656 - osu! Beatmap Pack #1656.zip
+2025-07-28 19:19:08 [DEBUG] Starting import process...
+2025-07-28 19:19:08 [DEBUG] ImportWorker initialized with path: C:/Users/iSweat/Downloads/S1656 - osu! Beatmap Pack #1656.zip
+2025-07-28 19:19:08 [INFO] ImportWorker thread started.
+2025-07-28 19:19:08 [INFO] Import thread started.
+2025-07-28 19:19:08 [DEBUG] Path is a ZIP file. Creating temporary directory...
+2025-07-28 19:19:08 [INFO] Status updated: Extracting 'C:/Users/iSweat/Downloads/S1656 - osu! Beatmap Pack #1656.zip' to temporary folder...
+2025-07-28 19:19:08 [INFO] ZIP file extracted to: C:\Users\iSweat\AppData\Local\Temp\tmpb96bbc_a
+2025-07-28 19:19:08 [INFO] Found 20 .osz file(s) to import.
+2025-07-28 19:19:08 [DEBUG] Processing batch 1 with 5 files
+2025-07-28 19:19:08 [INFO] Status updated: Found 20 .osz file(s). Starting import...
+2025-07-28 19:19:08 [DEBUG] Starting file: C:\Users\iSweat\AppData\Local\Temp\tmpb96bbc_a\1880915 Creepy Nuts - Yofukashi no Uta.osz
+2025-07-28 19:19:08 [INFO] Status updated: Launching batch 1 with 5 files...
+2025-07-28 19:19:08 [DEBUG] Starting file: C:\Users\iSweat\AppData\Local\Temp\tmpb96bbc_a\1968282 tokenainamae - Bokura no Tousakugokko.osz
+2025-07-28 19:19:08 [DEBUG] Starting file: C:\Users\iSweat\AppData\Local\Temp\tmpb96bbc_a\1991635 Yousei Teikoku - Senketsu no Chikai (TV Size).osz
+2025-07-28 19:19:08 [DEBUG] Starting file: C:\Users\iSweat\AppData\Local\Temp\tmpb96bbc_a\2159721 F Rabbeat feat. Mustard - How to make OTOGE MUSIC_.osz
+2025-07-28 19:19:08 [DEBUG] Starting file: C:\Users\iSweat\AppData\Local\Temp\tmpb96bbc_a\2194596 Red Hot Chili Peppers - Californication.osz
+2025-07-28 19:19:08 [DEBUG] Waiting for 5 import(s) to finish...
+2025-07-28 19:19:09 [DEBUG] Found 5 osu! import processes running.
+2025-07-28 19:19:10 [DEBUG] Found 5 osu! import processes running.
+2025-07-28 19:19:11 [DEBUG] Found 4 osu! import processes running.
+2025-07-28 19:19:11 [DEBUG] Found 0 osu! import processes running.
+2025-07-28 19:19:11 [DEBUG] All imports finished.
+2025-07-28 19:19:11 [DEBUG] Batch 1 completed.
+2025-07-28 19:19:11 [DEBUG] Processing batch 2 with 5 files
+2025-07-28 19:19:11 [INFO] File imported: 1991635 Yousei Teikoku - Senketsu no Chikai (TV Size).osz
+2025-07-28 19:19:11 [DEBUG] Starting file: C:\Users\iSweat\AppData\Local\Temp\tmpb96bbc_a\2263606 Sayuri - Songs Compilation.osz
+2025-07-28 19:19:11 [DEBUG] Progress updated: 5/20
+2025-07-28 19:19:11 [INFO] Status updated: Launching batch 2 with 5 files...
+2025-07-28 19:19:11 [DEBUG] Starting file: C:\Users\iSweat\AppData\Local\Temp\tmpb96bbc_a\2297038 RADWIMPS - Yume Tourou.osz
+2025-07-28 19:19:11 [DEBUG] Starting file: C:\Users\iSweat\AppData\Local\Temp\tmpb96bbc_a\2301256 Lady Gaga - The Edge Of Glory.osz
+2025-07-28 19:19:11 [DEBUG] Starting file: C:\Users\iSweat\AppData\Local\Temp\tmpb96bbc_a\2302431 Sasuke Haraguchi feat. Kasane Teto - HITO Mania.osz
+2025-07-28 19:19:11 [DEBUG] Starting file: C:\Users\iSweat\AppData\Local\Temp\tmpb96bbc_a\2303073 _LOVE - Koibito Ijou_ Suki Miman (TV Size).osz
+2025-07-28 19:19:11 [DEBUG] Waiting for 5 import(s) to finish...
+2025-07-28 19:19:12 [DEBUG] Found 5 osu! import processes running.
+2025-07-28 19:19:13 [DEBUG] Found 1 osu! import processes running.
+2025-07-28 19:19:13 [DEBUG] Found 0 osu! import processes running.
+2025-07-28 19:19:13 [DEBUG] All imports finished.
+2025-07-28 19:19:13 [DEBUG] Batch 2 completed.
+2025-07-28 19:19:13 [DEBUG] Processing batch 3 with 5 files
+2025-07-28 19:19:13 [DEBUG] Starting file: C:\Users\iSweat\AppData\Local\Temp\tmpb96bbc_a\2328493 JINDOU - Kaisei Joushou Hallelujah (TV Size).osz
+2025-07-28 19:19:13 [INFO] File imported: 2263606 Sayuri - Songs Compilation.osz
+2025-07-28 19:19:13 [DEBUG] Progress updated: 10/20
+2025-07-28 19:19:13 [INFO] Status updated: Launching batch 3 with 5 files...
+2025-07-28 19:19:14 [DEBUG] Starting file: C:\Users\iSweat\AppData\Local\Temp\tmpb96bbc_a\2337469 HIMEHINA - Kiss Kitsune.osz
+2025-07-28 19:19:14 [DEBUG] Starting file: C:\Users\iSweat\AppData\Local\Temp\tmpb96bbc_a\2340453 ilyeucli - U make my heart beat fast_ (feat. Hatsune Miku).osz
+2025-07-28 19:19:14 [DEBUG] Starting file: C:\Users\iSweat\AppData\Local\Temp\tmpb96bbc_a\2340741 Official HIGE DANdism - Same Blue.osz
+2025-07-28 19:19:14 [DEBUG] Starting file: C:\Users\iSweat\AppData\Local\Temp\tmpb96bbc_a\2341425 Hiro Shinosawa (CV_ Reina Kawamura) - Mekurume.osz
+2025-07-28 19:19:14 [DEBUG] Waiting for 5 import(s) to finish...
+2025-07-28 19:19:14 [DEBUG] Found 5 osu! import processes running.
+2025-07-28 19:19:15 [DEBUG] Found 1 osu! import processes running.
+2025-07-28 19:19:16 [DEBUG] Found 0 osu! import processes running.
+2025-07-28 19:19:16 [DEBUG] All imports finished.
+2025-07-28 19:19:16 [DEBUG] Batch 3 completed.
+2025-07-28 19:19:16 [DEBUG] Processing batch 4 with 5 files
+2025-07-28 19:19:16 [INFO] File imported: 2341425 Hiro Shinosawa (CV_ Reina Kawamura) - Mekurume.osz
+2025-07-28 19:19:16 [DEBUG] Starting file: C:\Users\iSweat\AppData\Local\Temp\tmpb96bbc_a\2365672 Good Kid - Tell Me You Know (Cut Ver.).osz
+2025-07-28 19:19:16 [DEBUG] Progress updated: 15/20
+2025-07-28 19:19:16 [INFO] Status updated: Launching batch 4 with 5 files...
+2025-07-28 19:19:16 [DEBUG] Starting file: C:\Users\iSweat\AppData\Local\Temp\tmpb96bbc_a\2375981 SHIN-SHINJUKU GR SCHOOL - AGARE.osz
+2025-07-28 19:19:16 [DEBUG] Starting file: C:\Users\iSweat\AppData\Local\Temp\tmpb96bbc_a\2383408 halca - Weekend Roll (TV Size).osz
+2025-07-28 19:19:16 [DEBUG] Starting file: C:\Users\iSweat\AppData\Local\Temp\tmpb96bbc_a\2389740 Aiobahn _81 feat. Nanahira _ Pmarusama. - Ten Ten Tengoku Jigokugoku.osz
+2025-07-28 19:19:16 [DEBUG] Starting file: C:\Users\iSweat\AppData\Local\Temp\tmpb96bbc_a\487497 Mizutani Runa (NanosizeMir) - Philosophyz _TV animation ver._.osz
+2025-07-28 19:19:16 [DEBUG] Waiting for 5 import(s) to finish...
+2025-07-28 19:19:17 [DEBUG] Found 5 osu! import processes running.
+2025-07-28 19:19:18 [DEBUG] Found 0 osu! import processes running.
+2025-07-28 19:19:18 [DEBUG] All imports finished.
+2025-07-28 19:19:18 [DEBUG] Batch 4 completed.
+2025-07-28 19:19:18 [INFO] \u2705 Finished: 20/20 beatmaps successfully imported.
+2025-07-28 19:19:18 [INFO] File imported: 2383408 halca - Weekend Roll (TV Size).osz
+2025-07-28 19:19:18 [DEBUG] Attempting to delete temp folder: C:\Users\iSweat\AppData\Local\Temp\tmpb96bbc_a
+2025-07-28 19:19:18 [DEBUG] Progress updated: 20/20
+2025-07-28 19:19:18 [INFO] Status updated: \u2705 Finished: 20/20 beatmaps successfully imported.
+2025-07-28 19:19:18 [WARNING] Temp folder locked. Retrying...
+2025-07-28 19:19:18 [INFO] Import process completed.
+2025-07-28 19:19:19 [INFO] Temporary folder deleted: C:\Users\iSweat\AppData\Local\Temp\tmpb96bbc_a
+2025-07-28 19:19:35 [DEBUG] Reset button clicked.
+2025-07-28 19:19:35 [DEBUG] Resetting UI state.
